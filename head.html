@@ -1,0 +1,10 @@
+<script type="text/javascript">
+    function resizeXavinWidget() {
+        var xavin_widget = document.getElementById('xavin_widget');
+        window.addEventListener('message', function (event) {
+            if (isNaN(event.data)) return;
+            var height = parseInt(event.data) + 26;
+            xavin_widget.height = height + "px";
+        }, false);
+    }
+</script>
