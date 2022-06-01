@@ -11,7 +11,7 @@ Xavin project widget is used to show the current status of your Xavin project to
 The widget will not be visible on the website where it was included until the corresponding project has gone live by Xavin.
 
 ## Contact
-For further instructions contact tamara@xavin.eu.
+For further instructions contact development@xavin.eu.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
